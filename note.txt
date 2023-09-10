@@ -1,0 +1,5 @@
+ini sc spam sms jangan di salahgunakan yah
+
+install dulu bahan nya dengan cara
+
+pip install -r bahan.txt
